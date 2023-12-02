@@ -1,0 +1,6 @@
+include<stdio.h>
+usingnamespace std;
+{
+cout<<"Hello world";
+}
+return 0
